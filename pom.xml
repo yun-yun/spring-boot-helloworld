@@ -6,7 +6,11 @@
 
     <groupId>top.lyunk</groupId>
     <artifactId>spring-boot-helloworld</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>sayhello</module>
+    </modules>
 
 </project>
